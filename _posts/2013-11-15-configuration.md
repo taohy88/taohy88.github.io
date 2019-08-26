@@ -18,6 +18,6 @@ author:
   pinterest: asd123  
   linkedin: asd123  
   resume: asd123  
-  bio: Your stylish,  minimalist theme!  
+  bio: Welcome!  
   email_md5: md5ofemail  
 {% endhighlight %}
