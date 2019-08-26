@@ -12,8 +12,8 @@ In your config file change these settings
 title: dbyll
 author:  
   name: yourname  
-  email: youremail  
-  github: asd123  
+  email: taohongyu88@gmail.com  
+  github: 823103015@qq.com  
   twitter: asd123  
   pinterest: asd123  
   linkedin: asd123  
