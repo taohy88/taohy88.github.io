@@ -1,86 +1,30 @@
+$gray-1: #f9f9f9;
+$gray-2: #ccc;
+$gray-3: #767676;
+$gray-4: #515151;
+$gray-5: #313131;
 
-//
-// VARIABLES
-//
+$red: #ac4142;
+$orange: #d28445;
+$yellow: #f4bf75;
+$green: #90a959;
+$cyan: #75b5aa;
+$blue: #268bd2;
+// $blue: #6a9fb5;
+$brown: #8f5536;
 
-// Colors
-$blue: $oc-teal-8;
+$root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+$root-font-size: 16px;
+$root-line-height: 1.5;
 
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+$body-color: #515151;
+$body-bg: #fff;
+$link-color: $blue;
 
-// Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$border-color: #e5e5e5;
 
-// Fonts
-$base-font: "Noto Serif","PT Serif",source-han-serif-sc, "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif","Songti SC", SimSon, serif;
-$code-font: 'Menlo', 'Courier New', 'Monaco', 'Spoqa Han Sans', monospace;
+$large-breakpoint: 38em;
+$large-font-size: 20px;
 
-// Font sizes
-$base-font-size: 16px;
-$small-font-size: 14px;
-
-// Colors
-$base-color: $oc-gray-8;
-$base-lighten-color: $oc-gray-6;
-
-$text-color: $base-color;
-$link-color: $oc-teal-8;
-$divider-color: $oc-gray-1;
-
-$table-border-color: $oc-gray-2;
-$table-background-color: $oc-gray-1;
-
-$blockquote-color: $base-lighten-color;
-$blockquote-border-color: $oc-gray-3;
-
-$footnote-link-border-color: $oc-gray-1;
-$footnote-link-background-over-color: $oc-gray-1;
-
-$selection-color: $oc-black;
-$selection-background-color: $oc-gray-1;
-
-$pagination-color: $oc-gray-6;
-$pagination-over-color: $oc-gray-8;
-
-$tag-index-label-color: $base-color;
-$tag-index-label-background-color: $oc-gray-2;
-$tag-index-count-background-color: $oc-gray-3;
-
-$footer-border-color: $oc-gray-2;
-$footer-background-color: $oc-gray-0;
-
-// List
-$li-bottom-space: 0.4em;
-$li-bullets-width: 1.4em;
-$li-line-height: 1.55;
-
-$ul-bullets-font: inherit;
-$ul-bullets-font-size: 1.4em;
-$ul-bullets-font-line-height: 1.2;
-$ul-bullets-right-space: .3em;
-
-$ol-bullets-font: inherit;
-$ol-bullets-font-size: 1em;
-$ol-bullets-font-line-height: inherit;
-$ol-bullets-right-space: .3em;
-
-$li-child-size-ratio: 0.95;
-
-$dt-width: 180px;
-$dt-dd-space: 20px;
-$dd-position: $dt-width+$dt-dd-space;
-
-// Mobile breakpoints
-@mixin mobile {
-  @media screen and (max-width: 1200px) {
-    @content;
-  }
-}
+$code-font-family: Menlo, Monaco, "Courier New", monospace;
+$code-color: #bf616a;
