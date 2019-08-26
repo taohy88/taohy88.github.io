@@ -14,13 +14,13 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Taohy
 
 description: Stylish Jekyll Theme
 author:
   name: Taohy
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
+  email: taohongyu88@gmail.com
+  github: 823103015@qq.com
   twitter: dbtek
   pinterest: asd123
   linkedin: asd123
