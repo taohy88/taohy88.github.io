@@ -9,7 +9,7 @@ fullview: true
 In your config file change these settings
 
 {% highlight yaml %}
-title: dbyll
+title: taohy
 author:  
   name: yourname  
   email: taohongyu88@gmail.com  
