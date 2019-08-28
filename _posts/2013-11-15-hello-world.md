@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Welcome to my Blog!
-categories: [general, setup, demo]
-tags: [demo, dbyll, dbtek, setup]
+categories: [general, setup]
+tags: [setup]
 fullview: true
 comments: true
 ---
