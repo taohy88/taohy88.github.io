@@ -189,13 +189,30 @@ ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
 
+/* modify by taohy 2019-08-28 */
+/*
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
+
+
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:1px solid #000000;
+}
+*/
 
 table.wide {
 	width: 100%;
 	max-width: 100%;
   }
   
-  table.inner-borders {
+table.inner-borders {
 	border-collapse: collapse;
 	border-style: hidden;
 	td {
