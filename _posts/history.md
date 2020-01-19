@@ -4,9 +4,6 @@ title: 英国近代史
 categories: [history]
 tags: [history]
 description: 英国近代史
-
-
-typora-root-url: ..
 ---
 
 

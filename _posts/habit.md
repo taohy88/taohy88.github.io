@@ -5,9 +5,6 @@ categories: [habit]
 tags: [habit]
 description: 习惯
 
-
-typora-root-url: ..
-
 ---
 
 
